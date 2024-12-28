@@ -1,7 +1,7 @@
 import streamlit as st
 
 # Streamlit 애플리케이션 제목
-st.title("🧮 Streamlit 계산기")
+st.title("🧮 Streamlit 계산기!!!")
 
 # 사용자 입력
 num1 = st.number_input("첫 번째 숫자를 입력하세요:", value=0.0)
